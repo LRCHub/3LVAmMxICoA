@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "長く短い祭",
+  "base_artist": "椎名林檎",
+  "createdAt": "2025-12-18T03:39:27.577505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nagaku Mijikai Matsuri (ft. Ukigumo) [長く短い祭 (ft. 浮雲)]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/01_Nagaku_Mijikai_Matsuri_(ft._Ukigumo)_[長く短い祭_(ft._浮雲)]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "長く短い祭",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_長く短い祭_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "長く短い祭",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_長く短い祭_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "長く短い祭 - No verao, as noites",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/04_長く短い祭_-_No_verao,_as_noites_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "長く短い祭",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/05_長く短い祭_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "長く短い祭",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/06_長く短い祭_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "長く短い祭 (椎名林檎と浮雲)",
+      "artist": "Shiina Ringo (椎名 林檎)",
+      "has_synced": true,
+      "path": "select/07_長く短い祭_(椎名林檎と浮雲)_Shiina_Ringo_(椎名_林檎).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "長く短い祭",
+      "artist": "椎名林檎と浮雲",
+      "has_synced": true,
+      "path": "select/08_長く短い祭_椎名林檎と浮雲.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "長く短い祭 - No verao, as noites",
+      "artist": "Sheena Ringo & Ukigmo",
+      "has_synced": true,
+      "path": "select/09_長く短い祭_-_No_verao,_as_noites_Sheena_Ringo_&_Ukigmo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "長く短い祭",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_長く短い祭_椎名_林檎.txt"
+    }
+  ]
+}
